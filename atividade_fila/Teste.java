@@ -1,4 +1,4 @@
-public class MainFila {
+public class Teste {
     public static void main(String[] args) {
         Fila fila = new Fila();
         fila.criarFila(10);
