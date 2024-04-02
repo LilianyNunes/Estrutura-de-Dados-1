@@ -1,4 +1,5 @@
-package atividade_fila_etores;
+package atividade_fila_vetores;
+
 public class Fila {
     int tamanho = 0;
     int[] elementos;

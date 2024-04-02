@@ -1,4 +1,5 @@
-package atividade_fila_etores;
+package atividade_fila_vetores;
+
 public class Teste {
     public static void main(String[] args) {
         Fila fila = new Fila();
